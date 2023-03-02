@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00b7bb69-559a-4765-a9b8-4b2ba4711c62" name="Changes" comment="Add another conditional statement">
+      <change afterPath="$PROJECT_DIR$/Loop/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VideoStream/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VideoStream/VideoLaucher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VideoStream/VideoStore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alpha 3.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alpha 3.0/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +42,13 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Loop.Practice">
-    <configuration name="ConditionalStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicJava.ConditionalStatement" />
+  <component name="RunManager" selected="Application.VideoLaucher">
+    <configuration name="Dept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.Dept" />
       <module name="Alpha 3.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicJava.*" />
+          <option name="PATTERN" value="Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,6 +82,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VideoLaucher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VideoStream.VideoLaucher" />
+      <module name="Alpha 3.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VideoStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop.While" />
       <module name="Alpha 3.0" />
@@ -90,26 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicJava.hello" />
-      <module name="Alpha 3.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BasicJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Loop.Practice" />
-        <item itemvalue="Application.While" />
+        <item itemvalue="Application.VideoLaucher" />
+        <item itemvalue="Application.Dept" />
         <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.ConditionalStatement" />
-        <item itemvalue="Application.hello" />
+        <item itemvalue="Application.While" />
+        <item itemvalue="Application.Loop.Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +150,12 @@
       <workItem from="1675789788124" duration="2956000" />
       <workItem from="1675866449809" duration="1861000" />
       <workItem from="1676223865936" duration="617000" />
+      <workItem from="1676403934257" duration="253000" />
+      <workItem from="1676487362657" duration="579000" />
+      <workItem from="1677417006428" duration="798000" />
+      <workItem from="1677417819699" duration="7601000" />
+      <workItem from="1677520734012" duration="2794000" />
+      <workItem from="1677603500236" duration="1339000" />
     </task>
     <task id="LOCAL-00001" summary="insert conditional statement">
       <created>1675020924994</created>
